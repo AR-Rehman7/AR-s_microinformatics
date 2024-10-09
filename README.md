@@ -1,2 +1,4 @@
 # AR-s_microinformatics
-A class work done in a internship related to bioinformatics and data science
+Author : Abdur Rehman Asghar
+where to contact : abdurrehmanasghar305@gmail.com
+A class work done in an internship related to bioinformatics and data science
